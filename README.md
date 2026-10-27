@@ -25,3 +25,9 @@ PY
 
 ## Safety and limitations
 This demo does not browse the web, verify company news, access a CRM, or send messages. Only include prospect details you have a legitimate basis to use. Check consent, opt-out requirements, platform policies, and applicable anti-spam laws before outreach. Do not use personalization that implies a relationship or fact that does not exist.
+
+## Explore more
+
+- [AI Lead Qualification Agent](https://github.com/HardikPaghdar/ai-lead-qualification-agent) — transparent rule-based lead triage.
+- [LLM Cost Optimization Gateway](https://github.com/HardikPaghdar/llm-cost-optimization-gateway) — policy-based model selection prototype.
+- [More projects on my portfolio](https://hardikpaghdar.netlify.app/).
